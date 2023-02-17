@@ -17,7 +17,7 @@ reset = Fore.RESET
 yellow = Fore.YELLOW
 blue = Fore.BLUE
 
-os.system("cls")
+os.system("clear")
 
 def modulos():
     print (reset+"""
