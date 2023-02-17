@@ -80,7 +80,6 @@ def sms_anom():
     os.system("cd lib && cd Anonimato && bash sms_anom.sh")
 
 def scann_nmap():
-    os.system("apt install nmap")
     import lib.pentesting.scann_nmap
 
 def search_user():
