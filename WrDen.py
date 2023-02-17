@@ -17,7 +17,7 @@ reset = Fore.RESET
 yellow = Fore.YELLOW
 blue = Fore.BLUE
 
-os.system("cls")
+os.system("clear")
 
 def modulos():
     print (reset+"""
@@ -73,7 +73,6 @@ def fake_name():
 
 def ddos_attack():
     import lib.pentesting.attack_ddos_dos
-    opciones()
 
 def sms_anom():
     os.system("cd lib && cd Anonimato && bash sms_anom.sh")
