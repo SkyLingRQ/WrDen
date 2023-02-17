@@ -1,6 +1,5 @@
 requests
 os-sys
 sockets
-json
 python-time
 colorama
