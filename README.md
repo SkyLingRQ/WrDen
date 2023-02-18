@@ -21,11 +21,16 @@ a continuación estara la guia de su instalación e ejecución.
 
 * sudo python3 WrDen.py
 
+* NOTA: el sudo es para los sistemas operativos como kali linux, parrot, ubuntu, etc. Para los que son de termux ejecuten los comandos sin el sudo
+
+
 # MODULOS
 
 * phone_dox     :   Datos de un número telefónico. 
  
 * system_ip    :   Identificar sistema operativo por la dirección ip.
+
+* ip_hosts     :   Identificar la ip de un sitio web
  
 * ip_track        :   Datos de una dirección ip pública.
  
@@ -36,8 +41,6 @@ a continuación estara la guia de su instalación e ejecución.
 * ddos_attack    :   Realizar un ataque ddos a una web
  
 * search_user    :   Realizar una busqueda de un nombre en distintas redes sociales
- 
-* scann_nmap     :   Escaneo completo a una IP con Nmap
  
 * sms_anom       :    Enviar SMS Anonimamente
 
