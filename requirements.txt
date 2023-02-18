@@ -3,4 +3,3 @@ os-sys
 sockets
 python-time
 colorama
-slowloris
