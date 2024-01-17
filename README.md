@@ -1,14 +1,3 @@
-WrDen es una herramienta orientada a el pentesting, el anonimato y el osint.
-el author de este script no se hace cargo del mal uso que se le pueda dar a este programa.
-a continuación estara la guia de su instalación e ejecución.
-
-# SISTEMAS DISPONIBLES
-
-* Kali Linux
-* Parrot Security OS
-* Termux
-
-
 # INSTALACIÓN
 
 * git clone https://github.com/SkyLingRQ/WrDen
@@ -20,8 +9,6 @@ a continuación estara la guia de su instalación e ejecución.
 # EJECUCIÓN
 
 * sudo python3 WrDen.py
-
-* NOTA: el sudo es para los sistemas operativos como kali linux, parrot, ubuntu, etc. Para los que son de termux ejecuten los comandos sin el sudo
 
 
 # MODULOS
