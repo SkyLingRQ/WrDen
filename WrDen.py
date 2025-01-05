@@ -31,8 +31,6 @@ banner_help = """
       
    search_user    :   Realizar una busqueda de un username en distintas redes sociales
    
-   sms_anom       :    Enviar SMS Anonimamente
-   
    hash_encrypted   :   Hashear textos en variedades de tipos de hash. Se incluye encriptación por bcrypt
    
    help   :  Mostrar menú de opciones 
@@ -86,8 +84,6 @@ try:
             import lib.seguridad.scan_ports
         elif op=="fake_name":
             import lib.Anonimato.fake_name
-        elif op=="sms_anom":
-            os.system("cd lib && cd Anonimato && bash sms_anom.sh")
         elif op=="search_user":
             os.system("cd lib && cd osint && bash search_user.sh")
         elif op=="ip_hosts":
