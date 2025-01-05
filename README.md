@@ -25,8 +25,6 @@
       
  * search_user    :   Realizar una busqueda de un username en distintas redes sociales
    
- * sms_anom       :    Enviar SMS Anonimamente
-   
  * hash_encrypted   :   Hashear textos en variedades de tipos de hash. Se incluye encriptación por bcrypt
 
 # OTRAS OPCIONES
