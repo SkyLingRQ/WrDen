@@ -1,14 +1,20 @@
+![Muestra de WrDen](wrden.png)
+
 # INSTALACIÓN
 
-* git clone https://github.com/SkyLingRQ/WrDen
-* cd WrDen
-* chmod +x WrDen.py install.sh
-* sudo bash install.sh
-* sudo python3 -m pip install -r requirements.txt
+```bash
+git clone https://github.com/SkyLingRQ/WrDen
+cd WrDen
+chmod +x WrDen.py install.sh
+sudo bash install.sh
+sudo python3 -m pip install -r requirements.txt
+```
 
 # EJECUCIÓN
 
-* sudo python3 WrDen.py
+```bash
+python3 WrDen.py
+```
 
 
 # MODULOS
